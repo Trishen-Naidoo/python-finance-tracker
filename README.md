@@ -38,3 +38,9 @@ A beginner-friendly, command-line finance tracker built with Python.
 ## About
 
 This is a personal learning project created to practise Python fundamentals and develop practical programming skills.
+
+## Purpose of the Project
+
+I developed this project to strengthen my Python programming skills as part of my university Computer Programming course in my BEng (Hons) Computer Engineering with Specialization in Artificial Intelligence and Machine Learning degree.
+
+The goal was to apply fundamental programming concepts, including functions, loops, conditional statements, and user input, by building a practical application. This project is also part of my journey toward becoming a more confident programmer and developing hands-on coding experience.
